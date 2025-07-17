@@ -41,22 +41,7 @@ src/
 
 ---
 
-## Ideal For
 
-- Java beginners building their first OOP project
-- College assignments
-- Internship applications
-
----
-
-## Internship-Ready?
-
-Yes. This project demonstrates:
-- Understanding of object-oriented programming
-- Logical flow with user interaction
-- Command-line handling
-- Git version control usage
-- Structured and readable code
 
 ---
 
